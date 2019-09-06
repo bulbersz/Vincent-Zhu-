@@ -1,0 +1,36 @@
+html {
+
+}
+
+head {
+
+}
+
+body {
+  background-color: AliceBlue;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+  font-family: Gayathri;
+}
+
+h3 {
+  color: black;
+  text-align: left;
+  font-family: Gayathri;
+}
+
+
+p {
+  font-style: normal;
+  font-size: 125%;
+}
+img {
+  left: 0;
+  bottom: 0;
+  position: absolute;
+  height: 25%;
+  width: 25%;
+}
